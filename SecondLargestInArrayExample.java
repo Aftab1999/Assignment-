@@ -9,6 +9,7 @@ public class SecondLargestInArrayExample{
                 for (int j = i + 1; j < total; j++)   
                 {  
                     if (a[i] > a[j])   
+                    // If is a conditional Check Operator 
                     {  
                         temp = a[i];  
                         a[i] = a[j];  
