@@ -10,6 +10,8 @@ public class SecondLargestInArrayExample{
                 {  
                     if (a[i] > a[j])   
                     // If is a conditional Check Operator 
+                    // If is a conditional Check Operator 
+
                     {  
                         temp = a[i];  
                         a[i] = a[j];  
